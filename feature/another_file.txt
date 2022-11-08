@@ -1,2 +1,3 @@
 Its just another file for checking pull request.
 This line was modified manually during conflict resolution.
+Change in 3rd line
