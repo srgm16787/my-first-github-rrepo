@@ -1,2 +1,3 @@
 Hello, GitHub.
 hello local config
+hello global config
