@@ -1,0 +1,5 @@
+Its just another file for checking pull request
+This line was modified manually during conflict resolution.
+
+This line was added in feature-2 branch
+
